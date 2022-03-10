@@ -1,6 +1,6 @@
 {
-  "name": "FS-MULTI-SPAM-BOT",
-  "description": "A POWERFULL AND FAST SPAM BOT @The_GodLucifer.",
+  "name": "𝐇𝐀𝐑𝐀𝐌𝐈𝐈 𝐒𝐏𝐀𝐌 𝐓𝐄𝐀𝐌™T",
+  "description": "A POWERFULL AND FAST SPAM BOT",
   "logo": "",
   "keywords": [
     "spambot",
@@ -129,31 +129,6 @@
         "required": false
       },
       "STRING25": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING26": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING27": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING28": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING29": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING30": {
         "description": "Telethon String Session",
         "value": "",
         "required": false
